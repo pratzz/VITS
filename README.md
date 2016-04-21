@@ -2,7 +2,7 @@
 
 #Vehicle Identification and Tracking System
 
-####Technology used: <br>RFID, XBEE, MEAN STACK.<br>
+####<i>Technology used:</i> <br>RFID, XBEE, MEAN STACK.<br>
 <br>
 VITS basically is a functionality for VEHICLE IDENTIFICATION, VALIDATION, VERIFICATION and TRAFFIC CONGESTION. VITS functions in following way:<br>
 1) Vehicle Identification using RFID Technology, Wifi Module (ESP8266) and XBEE.<br>
